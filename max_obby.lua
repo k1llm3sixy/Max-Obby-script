@@ -1,0 +1,6 @@
+game:GetService("ReplicatedStorage").GiveToolRequest:FireServer()
+game:GetService("ReplicatedStorage").GiveToolRequest2:FireServer()
+game:GetService("ReplicatedStorage").GiveToolRequest3:FireServer()
+game:GetService("ReplicatedStorage").GiveToolRequest4:FireServer()
+game:GetService("ReplicatedStorage").GiveToolRequest5:FireServer()
+game:GetService("ReplicatedStorage").GiveToolRequest6:FireServer()
